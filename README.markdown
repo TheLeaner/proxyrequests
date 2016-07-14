@@ -2,8 +2,7 @@
 
 * Readme date: Jan 30 2012
 * Contributors: lukapusic
-* Author: Luka Pusic <luka@pusic.si>
-* URI: http://360percents.com/
+* Author: Luka Pusic <luka@pusic.com>
 
 ## Description
 Proxyrequests is (will be) a proxy grabber, checker and request handler (single and paralell). Class proxylist scrapes proxies from daily updated online lists and saves them to a file. It can also check existing proxy lists. Class requests can easily initiate paralell or single http GET | POST connections tunneled through proxies from our proxy file.
@@ -29,7 +28,7 @@ Proxyrequests is (will be) a proxy grabber, checker and request handler (single 
 ## License
  ----------------------------------------------------------------------------
  "THE BEER-WARE LICENSE" (Revision 42):
- <luka@pusic.si> wrote this file. As long as you retain this notice you
+ <luka@pusic.com> wrote this file. As long as you retain this notice you
  can do whatever you want with this stuff. If we meet some day, and you think
  this stuff is worth it, you can buy me a beer in return. Luka Pusic
  ----------------------------------------------------------------------------
