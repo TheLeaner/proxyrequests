@@ -1,4 +1,4 @@
-# DEPRECATED
+# DEPRECATED - use this tool: [fetch-some-proxies](https://github.com/stamparm/fetch-some-proxies)
 
 # proxyrequests 30.1.2012
 
